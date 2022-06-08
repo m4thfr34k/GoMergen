@@ -4,3 +4,4 @@ bin/*
 *.csv
 .idea/
 .cobra.yaml
+*.csv

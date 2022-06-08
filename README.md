@@ -1,7 +1,7 @@
 
 <h1 align="center">GoMergen</h1>
 <div align="center">
-	<img alt="GitHub go.mod Go version" src="https://img.shields.io/github/go-mod/m4thfr34k/GoMergen">
+	<img alt="GitHub go.mod Go version" src="https://img.shields.io/github/go-mod/go-version/m4thfr34k/gomergen">
 </div>
 
 GoMergen is a CLI tool to gather data related to NFTs on the Solana blockchain
