@@ -1,7 +1,6 @@
 bin/*
 !.gitkeep
 *.exe
-*.csv
 .idea/
 .cobra.yaml
 *.csv
