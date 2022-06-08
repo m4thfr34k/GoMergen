@@ -1,0 +1,5 @@
+bin/*
+!.gitkeep
+*.exe
+.idea/
+.cobra.yaml
